@@ -1,0 +1,41 @@
+body {
+  background-image: url("https://media.giphy.com/media/8UHSZX6KkfqaGnGkfW/giphy.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: DarkSlateGrey;
+}
+
+div {
+  color: BurlyWood;
+}
+
+.class1 {
+  position: absolute;
+  top: 5px;
+  left: 5%;
+}
+
+h1 {
+  font-family: 'Tangerine', cursive;
+  font-size: 8em;
+  line-height: 0.5;
+  margin-bottom: 8%;
+}
+
+h3 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 1.5em;
+  line-height: 0.25;
+}
+
+#id2 {
+  position: absolute;
+  top: 90%;
+  left: 5%;
+}
+
+h4 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 1.5em;
+  line-height: 0.25;
+}
